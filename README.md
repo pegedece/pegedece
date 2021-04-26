@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peb</h1>
-<h3 align="center">A passionate fullstacke developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <p align="left"> <a href="https://twitter.com/pegedece" target="blank"><img src="https://img.shields.io/twitter/follow/pegedece?logo=twitter&style=for-the-badge" alt="pegedece" /></a> </p>
 
