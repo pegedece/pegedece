@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pegedece" target="blank"><img src="https://img.shields.io/twitter/follow/pegedece?logo=twitter&style=for-the-badge" alt="pegedece" /></a> </p>
 
-- 💬 Ask me about **Java,Oracle PLSQL,bash scripting, Phypton**
+- 💬 Ask me about **Java,Oracle PLSQL,BASH scripting,Linux Admin,Python,HTML,CSS,Javascript**
 
 - 📫 How to reach me **resguardo@gmail.com**
 
